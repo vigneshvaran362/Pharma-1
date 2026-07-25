@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Advancing R&D in Oncology: Our 2024 Pipeline Update",
+    "date": "May 12, 2024",
+    "author": "Dr. Sarah Jenkins",
+    "category": "R&D Updates",
+    "excerpt": "An inside look at our latest clinical trials and the future of targeted oncology therapies.",
+    "content": "As we move into 2024, our commitment to oncology research remains steadfast. This article details the Phase III trial results for OncoShield-50 and outlines our upcoming pipeline focusing on CAR-T cell therapies..."
+  },
+  {
+    "id": 2,
+    "title": "Sustainable Manufacturing: A Net-Zero Future",
+    "date": "April 28, 2024",
+    "author": "Mark Chen",
+    "category": "Manufacturing",
+    "excerpt": "How our new solar-powered facility in Singapore is reducing our carbon footprint by 40%.",
+    "content": "Pharmaceutical manufacturing requires immense energy. We recently inaugurated our new net-zero facility in Singapore, utilizing advanced solar grids and water recycling systems to minimize environmental impact..."
+  },
+  {
+    "id": 3,
+    "title": "Global Health: Expanding Access to Pediatric Care",
+    "date": "April 10, 2024",
+    "author": "Elena Rodriguez",
+    "category": "Company News",
+    "excerpt": "NovaPharma partners with WHO to distribute BactaKill syrup to underserved regions.",
+    "content": "Access to healthcare is a fundamental right. Our new partnership with the World Health Organization aims to distribute 5 million units of BactaKill to regions heavily affected by pediatric respiratory diseases..."
+  }
+]

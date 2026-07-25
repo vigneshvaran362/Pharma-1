@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Cardizem-AR",
+    "therapeutic_area": "Cardiology",
+    "formulation": "Tablet",
+    "description": "Beta-blocker for managing hypertension and preventing angina."
+  },
+  {
+    "id": 2,
+    "name": "NeuroCalm",
+    "therapeutic_area": "Neurology",
+    "formulation": "Capsule",
+    "description": "GABAergic agent designed for generalized anxiety disorder management."
+  },
+  {
+    "id": 3,
+    "name": "OncoShield-50",
+    "therapeutic_area": "Oncology",
+    "formulation": "Injectable",
+    "description": "Targeted therapy for reducing tumor recurrence in breast cancer."
+  },
+  {
+    "id": 4,
+    "name": "BactaKill",
+    "therapeutic_area": "Infectious Diseases",
+    "formulation": "Syrup",
+    "description": "Broad-spectrum antibiotic for pediatric respiratory infections."
+  },
+  {
+    "id": 5,
+    "name": "GlucoStable",
+    "therapeutic_area": "Endocrinology",
+    "formulation": "Tablet",
+    "description": "Extended-release metformin for Type 2 diabetes glycemic control."
+  },
+  {
+    "id": 6,
+    "name": "ImmunoBoost-C",
+    "therapeutic_area": "Immunology",
+    "formulation": "Capsule",
+    "description": "High-dose Vitamin C and Zinc supplement for immune system support."
+  }
+]
